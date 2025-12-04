@@ -1,0 +1,5 @@
+{
+  "name": "BulkImaginator",
+  "description": "A powerful bulk text-to-image generation tool using Gemini 2.5 Flash Image. Generate multiple images sequentially from a list of prompts.",
+  "requestFramePermissions": []
+}
